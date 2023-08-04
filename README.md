@@ -5,9 +5,6 @@
 <p>
   Hi, I am Victor, i currently live in brazil.
 </p>
-<p>
-  in my free time i like to play (and watch) soccer 🏈, to watch movies (🎥) and series (📺), to read books 📚, to listen to music 🎵 and eventually i like to philosophize about   life with a beer (🍺).
-</p>
 
 ### 🏷️ My Skills
 <p>
