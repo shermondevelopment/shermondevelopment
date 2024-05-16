@@ -1,4 +1,4 @@
-### Hi 👋, I am Victor Shermon
+### Hi 👋, I am Vitor Shermon
 <hr/>
 
 ### 🏷️ About me
